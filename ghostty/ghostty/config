@@ -1,0 +1,26 @@
+font-family = "MesloLGS NF"
+font-family-bold = "MesloLGS NF Bold"
+font-family-bold-italic = "MesloLGS NF Bold Italic"
+font-family-italic = "MesloLGS NF Italic"
+font-size = 14
+font-style = bold
+theme = dark:catppuccin-frappe,light:catppuccin-latte
+background = 282c34
+foreground = ffffff
+background-opacity = 0.75
+background-blur = 20
+shell-integration = zsh
+window-padding-x = 4,4
+window-padding-y = 1,1
+window-decoration = client
+window-theme = system
+macos-non-native-fullscreen = true
+macos-titlebar-style = transparent
+macos-titlebar-proxy-icon = hidden
+macos-option-as-alt = false
+macos-icon = glass
+
+keybind = ctrl+shift+v=new_split:auto 
+keybind = ctrl+shift+l=goto_split:right 
+keybind = ctrl+shift+h=goto_split:left 
+

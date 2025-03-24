@@ -1,3 +1,6 @@
 [submodule "neovim/nvim"]
 	path = neovim/nvim
 	url = https://github.com/MarvinPahling/nvim.git
+[submodule "sysutils/.sysutils"]
+	path = sysutils/.sysutils
+	url = https://github.com/MarvinPahling/.sysutils.git
